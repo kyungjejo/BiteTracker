@@ -1,0 +1,8 @@
+* Instruction
+
+```
+install npm
+npm install -g expo-cli
+cd AwesomeProject
+expo start
+```
